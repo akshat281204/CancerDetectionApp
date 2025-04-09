@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@drawable/gradient_background">
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"
+        android:fontFamily="@font/monst_font"
+        android:shadowColor="#000000"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="2"
+        android:text="Lung Cancer Detection"
+        android:textColor="@color/white"
+        android:textSize="26sp"
+        android:textStyle="bold" />
+
+    <!-- Instructions Text -->
+    <TextView
+        android:id="@+id/instructionsText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvTitle"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/monst_font"
+        android:text="Follow the instructions below to upload or capture an image for lung cancer detection.\n"
+        android:textColor="@color/white"
+        android:textSize="14sp" />
+
+    <!-- Additional Instructions Text -->
+    <TextView
+        android:id="@+id/additionalInstructions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/instructionsText"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/monst_font"
+        android:text="1. Please ensure the image is clear and well-lit.\n\n2. Only upload images of CT scans for accurate predictions.\n\n3. Avoid using images from other medical tests or personal photos."
+        android:textColor="@color/white"
+        android:textSize="14sp" />
+
+    <!-- Capture Image Button -->
+    <Button
+        android:id="@+id/btnCapture"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/additionalInstructions"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/rounded_button"
+        android:fontFamily="@font/monst_font"
+        android:text="Capture Image"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <!-- Pick Image from Gallery Button -->
+    <Button
+        android:id="@+id/btnGallery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnCapture"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/rounded_button"
+        android:fontFamily="@font/monst_font"
+        android:text="Pick Image from Gallery"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <!-- Image Preview -->
+    <ImageView
+        android:id="@+id/imagePreview"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_below="@id/btnGallery"
+        android:layout_marginTop="16dp"
+        android:scaleType="centerCrop"
+        android:visibility="gone"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Prediction Result -->
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imagePreview"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/rounded_textview"
+        android:fontFamily="@font/monst_font"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="Your prediction will appear here."
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+    <!-- Progress Bar -->
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/textView"
+        android:visibility="gone"
+        android:indeterminate="true"
+        android:layout_marginTop="32dp" />
+</RelativeLayout>

@@ -4,12 +4,15 @@
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
+
     <style name="Theme.CancerDetection" parent="Base.Theme.CancerDetection" />
+
     <style name="cust_card" parent="">
         <item name="cornerFamily">rounded</item>
         <item name="cornerSizeTopRight">43dp</item>
         <item name="cornerSizeTopLeft">43dp</item>
     </style>
+
     <style name="cust_card_style" parent="Widget.MaterialComponents.CardView">
         <item name="shapeAppearanceOverlay">@style/cust_card</item>
     </style>

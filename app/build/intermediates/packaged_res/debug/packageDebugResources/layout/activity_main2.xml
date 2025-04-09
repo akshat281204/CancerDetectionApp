@@ -126,6 +126,17 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/email_su" />
 
+            <ImageView
+                android:id="@+id/pass_vis_su"
+                android:layout_width="32dp"
+                android:layout_height="24dp"
+                android:layout_marginEnd="12dp"
+                android:tint="#9EA1D4"
+                app:layout_constraintBottom_toBottomOf="@+id/password_su"
+                app:layout_constraintEnd_toEndOf="@+id/password_su"
+                app:layout_constraintTop_toTopOf="@+id/password_su"
+                app:srcCompat="@drawable/pass_hidden" />
+
             <Button
                 android:id="@+id/button_su"
                 android:layout_width="184dp"
@@ -133,6 +144,7 @@
                 android:layout_marginTop="4dp"
                 android:drawableTint="#FFFFFF"
                 android:fontFamily="@font/monst_font"
+                android:hapticFeedbackEnabled="true"
                 android:text="Sign Up"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"

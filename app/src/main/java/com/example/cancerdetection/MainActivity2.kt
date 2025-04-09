@@ -2,9 +2,12 @@ package com.example.cancerdetection
 
 import android.content.Intent
 import android.os.Bundle
+import android.text.method.HideReturnsTransformationMethod
+import android.text.method.PasswordTransformationMethod
 import android.view.View
 import android.widget.Button
 import android.widget.EditText
+import android.widget.ImageView
 import android.widget.ProgressBar
 import android.widget.TextView
 import android.widget.Toast
@@ -55,6 +58,24 @@ class MainActivity2 : AppCompatActivity() {
         val but_su=findViewById<Button>(R.id.button_su)
         val back=findViewById<FloatingActionButton>(R.id.back2)
         val prog=findViewById<ProgressBar>(R.id.progress_signup)
+        val pass_vis_su=findViewById<ImageView>(R.id.pass_vis_su)
+        var count:Int=0
+
+        pass_vis_su.setOnClickListener{
+            count+=1
+            if(count%2==1){
+                pass_vis_su.setImageResource(R.drawable.pass_shown)
+                passfield.transformationMethod= HideReturnsTransformationMethod.getInstance()
+            }
+            else{
+                pass_vis_su.setImageResource(R.drawable.pass_hidden)
+                passfield.transformationMethod= PasswordTransformationMethod.getInstance()
+            }
+            if(count==9){
+                count=1
+            }
+            passfield.setSelection(passfield.text.length)
+        }
 
         back.setOnClickListener{
             finish()

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.cancerdetection.app-mergeDebugResources-55:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "outputFile": "com.example.cancerdetection.app-mergeDebugResources-57:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Akshat\\.gradle\\caches\\transforms-4\\fa5e7843fe4155835768376e9ceda643\\transformed\\material-1.10.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "source": "C:\\Users\\Akshat\\.gradle\\caches\\transforms-4\\35337d2401bd7c1050e91c0d78016598\\transformed\\material-1.10.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

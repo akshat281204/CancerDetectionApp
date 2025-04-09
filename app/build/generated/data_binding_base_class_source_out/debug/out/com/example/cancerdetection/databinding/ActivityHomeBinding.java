@@ -4,14 +4,18 @@ package com.example.cancerdetection.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.webkit.WebView;
+import android.widget.Button;
+import android.widget.HorizontalScrollView;
 import android.widget.ImageView;
+import android.widget.ScrollView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.constraintlayout.widget.ConstraintLayout;
-import androidx.constraintlayout.widget.Guideline;
+import androidx.cardview.widget.CardView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
+import com.airbnb.lottie.LottieAnimationView;
 import com.example.cancerdetection.R;
 import com.google.android.material.card.MaterialCardView;
 import java.lang.NullPointerException;
@@ -20,37 +24,154 @@ import java.lang.String;
 
 public final class ActivityHomeBinding implements ViewBinding {
   @NonNull
-  private final ConstraintLayout rootView;
+  private final ScrollView rootView;
+
+  @NonNull
+  public final Button addInfo;
+
+  @NonNull
+  public final Button additionalButton;
 
   @NonNull
   public final MaterialCardView cardLogin;
 
   @NonNull
-  public final ImageView imageView4;
+  public final TextView docHead;
 
   @NonNull
-  public final ConstraintLayout main;
+  public final TextView headerTitle;
 
   @NonNull
-  public final Guideline marginHome;
+  public final HorizontalScrollView hs2;
+
+  @NonNull
+  public final Button infoBut;
+
+  @NonNull
+  public final ImageView logo;
+
+  @NonNull
+  public final LottieAnimationView lungAnimation;
+
+  @NonNull
+  public final Button lungCancerPred;
+
+  @NonNull
+  public final ScrollView main;
+
+  @NonNull
+  public final ImageView prof;
+
+  @NonNull
+  public final TextView textView5;
+
+  @NonNull
+  public final TextView tip1;
+
+  @NonNull
+  public final TextView tip10;
+
+  @NonNull
+  public final TextView tip2;
+
+  @NonNull
+  public final TextView tip3;
+
+  @NonNull
+  public final TextView tip4;
+
+  @NonNull
+  public final TextView tip5;
+
+  @NonNull
+  public final TextView tip6;
+
+  @NonNull
+  public final TextView tip7;
+
+  @NonNull
+  public final TextView tip8;
+
+  @NonNull
+  public final TextView tip9;
+
+  @NonNull
+  public final TextView tipsHeader;
+
+  @NonNull
+  public final HorizontalScrollView tipsScroll;
 
   @NonNull
   public final TextView userWelc;
 
-  private ActivityHomeBinding(@NonNull ConstraintLayout rootView,
-      @NonNull MaterialCardView cardLogin, @NonNull ImageView imageView4,
-      @NonNull ConstraintLayout main, @NonNull Guideline marginHome, @NonNull TextView userWelc) {
+  @NonNull
+  public final WebView v1;
+
+  @NonNull
+  public final WebView v2;
+
+  @NonNull
+  public final WebView v3;
+
+  @NonNull
+  public final CardView vid1;
+
+  @NonNull
+  public final CardView vid2;
+
+  @NonNull
+  public final CardView vid3;
+
+  private ActivityHomeBinding(@NonNull ScrollView rootView, @NonNull Button addInfo,
+      @NonNull Button additionalButton, @NonNull MaterialCardView cardLogin,
+      @NonNull TextView docHead, @NonNull TextView headerTitle, @NonNull HorizontalScrollView hs2,
+      @NonNull Button infoBut, @NonNull ImageView logo, @NonNull LottieAnimationView lungAnimation,
+      @NonNull Button lungCancerPred, @NonNull ScrollView main, @NonNull ImageView prof,
+      @NonNull TextView textView5, @NonNull TextView tip1, @NonNull TextView tip10,
+      @NonNull TextView tip2, @NonNull TextView tip3, @NonNull TextView tip4,
+      @NonNull TextView tip5, @NonNull TextView tip6, @NonNull TextView tip7,
+      @NonNull TextView tip8, @NonNull TextView tip9, @NonNull TextView tipsHeader,
+      @NonNull HorizontalScrollView tipsScroll, @NonNull TextView userWelc, @NonNull WebView v1,
+      @NonNull WebView v2, @NonNull WebView v3, @NonNull CardView vid1, @NonNull CardView vid2,
+      @NonNull CardView vid3) {
     this.rootView = rootView;
+    this.addInfo = addInfo;
+    this.additionalButton = additionalButton;
     this.cardLogin = cardLogin;
-    this.imageView4 = imageView4;
+    this.docHead = docHead;
+    this.headerTitle = headerTitle;
+    this.hs2 = hs2;
+    this.infoBut = infoBut;
+    this.logo = logo;
+    this.lungAnimation = lungAnimation;
+    this.lungCancerPred = lungCancerPred;
     this.main = main;
-    this.marginHome = marginHome;
+    this.prof = prof;
+    this.textView5 = textView5;
+    this.tip1 = tip1;
+    this.tip10 = tip10;
+    this.tip2 = tip2;
+    this.tip3 = tip3;
+    this.tip4 = tip4;
+    this.tip5 = tip5;
+    this.tip6 = tip6;
+    this.tip7 = tip7;
+    this.tip8 = tip8;
+    this.tip9 = tip9;
+    this.tipsHeader = tipsHeader;
+    this.tipsScroll = tipsScroll;
     this.userWelc = userWelc;
+    this.v1 = v1;
+    this.v2 = v2;
+    this.v3 = v3;
+    this.vid1 = vid1;
+    this.vid2 = vid2;
+    this.vid3 = vid3;
   }
 
   @Override
   @NonNull
-  public ConstraintLayout getRoot() {
+  public ScrollView getRoot() {
     return rootView;
   }
 
@@ -75,23 +196,149 @@ public final class ActivityHomeBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.add_info;
+      Button addInfo = ViewBindings.findChildViewById(rootView, id);
+      if (addInfo == null) {
+        break missingId;
+      }
+
+      id = R.id.additional_button;
+      Button additionalButton = ViewBindings.findChildViewById(rootView, id);
+      if (additionalButton == null) {
+        break missingId;
+      }
+
       id = R.id.card_login;
       MaterialCardView cardLogin = ViewBindings.findChildViewById(rootView, id);
       if (cardLogin == null) {
         break missingId;
       }
 
-      id = R.id.imageView4;
-      ImageView imageView4 = ViewBindings.findChildViewById(rootView, id);
-      if (imageView4 == null) {
+      id = R.id.doc_head;
+      TextView docHead = ViewBindings.findChildViewById(rootView, id);
+      if (docHead == null) {
         break missingId;
       }
 
-      ConstraintLayout main = (ConstraintLayout) rootView;
+      id = R.id.header_title;
+      TextView headerTitle = ViewBindings.findChildViewById(rootView, id);
+      if (headerTitle == null) {
+        break missingId;
+      }
 
-      id = R.id.margin_home;
-      Guideline marginHome = ViewBindings.findChildViewById(rootView, id);
-      if (marginHome == null) {
+      id = R.id.hs2;
+      HorizontalScrollView hs2 = ViewBindings.findChildViewById(rootView, id);
+      if (hs2 == null) {
+        break missingId;
+      }
+
+      id = R.id.info_but;
+      Button infoBut = ViewBindings.findChildViewById(rootView, id);
+      if (infoBut == null) {
+        break missingId;
+      }
+
+      id = R.id.logo;
+      ImageView logo = ViewBindings.findChildViewById(rootView, id);
+      if (logo == null) {
+        break missingId;
+      }
+
+      id = R.id.lung_animation;
+      LottieAnimationView lungAnimation = ViewBindings.findChildViewById(rootView, id);
+      if (lungAnimation == null) {
+        break missingId;
+      }
+
+      id = R.id.lung_cancer_pred;
+      Button lungCancerPred = ViewBindings.findChildViewById(rootView, id);
+      if (lungCancerPred == null) {
+        break missingId;
+      }
+
+      ScrollView main = (ScrollView) rootView;
+
+      id = R.id.prof;
+      ImageView prof = ViewBindings.findChildViewById(rootView, id);
+      if (prof == null) {
+        break missingId;
+      }
+
+      id = R.id.textView5;
+      TextView textView5 = ViewBindings.findChildViewById(rootView, id);
+      if (textView5 == null) {
+        break missingId;
+      }
+
+      id = R.id.tip1;
+      TextView tip1 = ViewBindings.findChildViewById(rootView, id);
+      if (tip1 == null) {
+        break missingId;
+      }
+
+      id = R.id.tip10;
+      TextView tip10 = ViewBindings.findChildViewById(rootView, id);
+      if (tip10 == null) {
+        break missingId;
+      }
+
+      id = R.id.tip2;
+      TextView tip2 = ViewBindings.findChildViewById(rootView, id);
+      if (tip2 == null) {
+        break missingId;
+      }
+
+      id = R.id.tip3;
+      TextView tip3 = ViewBindings.findChildViewById(rootView, id);
+      if (tip3 == null) {
+        break missingId;
+      }
+
+      id = R.id.tip4;
+      TextView tip4 = ViewBindings.findChildViewById(rootView, id);
+      if (tip4 == null) {
+        break missingId;
+      }
+
+      id = R.id.tip5;
+      TextView tip5 = ViewBindings.findChildViewById(rootView, id);
+      if (tip5 == null) {
+        break missingId;
+      }
+
+      id = R.id.tip6;
+      TextView tip6 = ViewBindings.findChildViewById(rootView, id);
+      if (tip6 == null) {
+        break missingId;
+      }
+
+      id = R.id.tip7;
+      TextView tip7 = ViewBindings.findChildViewById(rootView, id);
+      if (tip7 == null) {
+        break missingId;
+      }
+
+      id = R.id.tip8;
+      TextView tip8 = ViewBindings.findChildViewById(rootView, id);
+      if (tip8 == null) {
+        break missingId;
+      }
+
+      id = R.id.tip9;
+      TextView tip9 = ViewBindings.findChildViewById(rootView, id);
+      if (tip9 == null) {
+        break missingId;
+      }
+
+      id = R.id.tips_header;
+      TextView tipsHeader = ViewBindings.findChildViewById(rootView, id);
+      if (tipsHeader == null) {
+        break missingId;
+      }
+
+      id = R.id.tips_scroll;
+      HorizontalScrollView tipsScroll = ViewBindings.findChildViewById(rootView, id);
+      if (tipsScroll == null) {
         break missingId;
       }
 
@@ -101,8 +348,46 @@ public final class ActivityHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityHomeBinding((ConstraintLayout) rootView, cardLogin, imageView4, main,
-          marginHome, userWelc);
+      id = R.id.v1;
+      WebView v1 = ViewBindings.findChildViewById(rootView, id);
+      if (v1 == null) {
+        break missingId;
+      }
+
+      id = R.id.v2;
+      WebView v2 = ViewBindings.findChildViewById(rootView, id);
+      if (v2 == null) {
+        break missingId;
+      }
+
+      id = R.id.v3;
+      WebView v3 = ViewBindings.findChildViewById(rootView, id);
+      if (v3 == null) {
+        break missingId;
+      }
+
+      id = R.id.vid1;
+      CardView vid1 = ViewBindings.findChildViewById(rootView, id);
+      if (vid1 == null) {
+        break missingId;
+      }
+
+      id = R.id.vid2;
+      CardView vid2 = ViewBindings.findChildViewById(rootView, id);
+      if (vid2 == null) {
+        break missingId;
+      }
+
+      id = R.id.vid3;
+      CardView vid3 = ViewBindings.findChildViewById(rootView, id);
+      if (vid3 == null) {
+        break missingId;
+      }
+
+      return new ActivityHomeBinding((ScrollView) rootView, addInfo, additionalButton, cardLogin,
+          docHead, headerTitle, hs2, infoBut, logo, lungAnimation, lungCancerPred, main, prof,
+          textView5, tip1, tip10, tip2, tip3, tip4, tip5, tip6, tip7, tip8, tip9, tipsHeader,
+          tipsScroll, userWelc, v1, v2, v3, vid1, vid2, vid3);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

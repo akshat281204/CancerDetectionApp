@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.cancerdetection.app-mergeDebugResources-55:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.example.cancerdetection.app-mergeDebugResources-57:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Akshat\\.gradle\\caches\\transforms-4\\720f0276da0901c6512222340ff50be5\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "C:\\Users\\Akshat\\.gradle\\caches\\transforms-4\\6247fae5acba8c8e1ef16581e678ee21\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Akshat\\.gradle\\caches\\transforms-4\\e1c211e37a9bade5f32a21db0247c88d\\transformed\\play-services-auth-20.7.0\\res\\values-watch-v20\\values.xml",
+                    "source": "C:\\Users\\Akshat\\.gradle\\caches\\transforms-4\\cb6be69e847cf3bd8aa9180806b38ff9\\transformed\\play-services-auth-20.7.0\\res\\values-watch-v20\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",

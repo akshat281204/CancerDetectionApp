@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.cancerdetection.app-mergeDebugResources-55:/values-w1240dp-v13/values-w1240dp-v13.xml",
+            "outputFile": "com.example.cancerdetection.app-mergeDebugResources-57:/values-w1240dp-v13/values-w1240dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Akshat\\AndroidStudioProjects\\CancerDetection\\app\\src\\main\\res\\values-w1240dp\\dimens.xml",
                     "from": {
                         "startLines": "1",
-                        "startColumns": "6",
-                        "startOffsets": "18",
-                        "endColumns": "44",
-                        "endOffsets": "56"
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "42",
+                        "endOffsets": "54"
                     },
                     "to": {
                         "startLines": "2",

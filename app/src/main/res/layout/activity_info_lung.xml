@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background"
+    android:padding="16dp"
+    android:scrollbars="none"
+    tools:context=".info_lung">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/header_title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:fontFamily="@font/monst_font"
+            android:text="Lung Cancer Awareness"
+            android:textAlignment="center"
+            android:textColor="@color/primary_light"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="268dp"
+            android:layout_height="38dp"
+            android:fontFamily="@font/monst_font"
+            android:text="Tap The Headings For More Information"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/header_title" />
+
+        <TextView
+            android:id="@+id/section_title1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/monst_font"
+            android:text="What is Lung Cancer?"
+            android:textColor="@color/secondary_light"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+        <TextView
+            android:id="@+id/section_content1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:text="Lung cancer occurs when abnormal cells grow uncontrollably in one or both lungs. These cells interfere with normal lung function, hindering the ability to take in oxygen and remove carbon dioxide. It is categorized into small cell lung cancer (SCLC) and non-small cell lung cancer (NSCLC), based on cell type."
+            android:textColor="@color/primary_text"
+            android:textSize="16sp"
+            android:fontFamily="@font/monst_font"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/section_title1" />
+
+        <TextView
+            android:id="@+id/section_title2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Symptoms of Lung Cancer"
+            android:textColor="@color/secondary_light"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/monst_font"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/section_content1" />
+
+        <TextView
+            android:id="@+id/section_content2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:text="Symptoms often go unnoticed in the early stages. Common signs include:\n\n• Persistent cough that worsens over time\n• Chest pain during breathing or coughing\n• Shortness of breath or wheezing\n• Coughing up blood or rust-colored sputum\n• Sudden, unexplained weight loss\n• Recurrent chest infections, such as pneumonia or bronchitis"
+            android:textColor="@color/primary_text"
+            android:textSize="16sp"
+            android:fontFamily="@font/monst_font"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/section_title2" />
+
+        <TextView
+            android:id="@+id/section_title3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Risk Factors"
+            android:textColor="@color/secondary_light"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/monst_font"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/section_content2" />
+
+        <TextView
+            android:id="@+id/section_content3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:text="The likelihood of developing lung cancer increases with the following risk factors:\n\n• Tobacco use: The leading cause of lung cancer\n• Exposure to secondhand smoke\n• Long-term exposure to radon gas\n• Contact with hazardous materials like asbestos\n• Family history of lung cancer\n• Prolonged exposure to air pollution"
+            android:textColor="@color/primary_text"
+            android:textSize="16sp"
+            android:fontFamily="@font/monst_font"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/section_title3" />
+
+        <TextView
+            android:id="@+id/section_title4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Treatment Options"
+            android:textColor="@color/secondary_light"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/monst_font"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/section_content3" />
+
+        <TextView
+            android:id="@+id/section_content4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:text="Treatment depends on the type and stage of lung cancer. Options include:\n\n• Surgery: Removing cancerous tissue\n• Radiation therapy: Targeting cancer cells with high-energy rays\n• Chemotherapy: Using drugs to kill or slow cancer growth\n• Targeted therapy: Blocking specific molecules involved in cancer growth\n• Immunotherapy: Helping the immune system fight cancer"
+            android:textColor="@color/primary_text"
+            android:textSize="16sp"
+            android:fontFamily="@font/monst_font"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/section_title4" />
+
+        <TextView
+            android:id="@+id/section_title5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Helpful Resources"
+            android:textColor="@color/secondary_light"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/monst_font"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/section_content4" />
+
+        <TextView
+            android:id="@+id/section_content5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Visit reliable sources for more information:\n\n• American Cancer Society: cancer.org\n• National Cancer Institute: cancer.gov\n• Local support groups and healthcare providers"
+            android:textColor="@color/primary_text"
+            android:textSize="16sp"
+            android:fontFamily="@font/monst_font"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/section_title5" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</android.widget.ScrollView>

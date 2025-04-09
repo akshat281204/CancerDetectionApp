@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="green">#388E3C</color>
     <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="primary">#6200EE</color>
+    <color name="primary_dark">#00264D</color>
+    <color name="primary_light">#FFFFFF</color>
+    <color name="primary_text">#E1E2E1</color>
+    <color name="red">#D32F2F</color>
+    <color name="secondary_dark">#FB8C00</color>
+    <color name="secondary_light">#FFA726</color>
+    <color name="secondary_text">#B0BEC5</color>
     <color name="white">#FFFFFFFF</color>
     <dimen name="fab_margin">16dp</dimen>
-    <string name="app_name">Cancer Detection</string>
+    <string name="app_name">Hope Scan</string>
     <string name="first_fragment_label">First Fragment</string>
     <string name="gcm_defaultSenderId" translatable="false">642173077847</string>
     <string name="google_api_key" translatable="false">AIzaSyBnJ8YCzeHr_gln2gJVsAvJc3aZy7HOtYQ</string>
