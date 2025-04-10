@@ -249,14 +249,14 @@ ADDED from C:\Users\Akshat\AndroidStudioProjects\CancerDetection\app\src\main\An
 		ADDED from C:\Users\Akshat\AndroidStudioProjects\CancerDetection\app\src\main\AndroidManifest.xml:26:13-37
 	android:name
 		ADDED from C:\Users\Akshat\AndroidStudioProjects\CancerDetection\app\src\main\AndroidManifest.xml:25:13-41
-activity#com.example.cancerdetection.info_lung
+activity#com.example.cancerdetection.HealthNewsActivity
 ADDED from C:\Users\Akshat\AndroidStudioProjects\CancerDetection\app\src\main\AndroidManifest.xml:28:9-31:60
 	android:exported
 		ADDED from C:\Users\Akshat\AndroidStudioProjects\CancerDetection\app\src\main\AndroidManifest.xml:30:13-37
 	android:theme
 		ADDED from C:\Users\Akshat\AndroidStudioProjects\CancerDetection\app\src\main\AndroidManifest.xml:31:13-57
 	android:name
-		ADDED from C:\Users\Akshat\AndroidStudioProjects\CancerDetection\app\src\main\AndroidManifest.xml:29:13-38
+		ADDED from C:\Users\Akshat\AndroidStudioProjects\CancerDetection\app\src\main\AndroidManifest.xml:29:13-47
 activity#com.example.cancerdetection.cancerPrediction
 ADDED from C:\Users\Akshat\AndroidStudioProjects\CancerDetection\app\src\main\AndroidManifest.xml:32:9-34:40
 	android:exported

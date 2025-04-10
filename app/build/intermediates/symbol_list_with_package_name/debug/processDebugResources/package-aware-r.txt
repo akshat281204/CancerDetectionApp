@@ -3086,6 +3086,8 @@ drawable email_icn
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable gradient_background
+drawable hopescan_nbg
+drawable hopescan_wbg
 drawable ic_arrow_back_black_24
 drawable ic_call_answer
 drawable ic_call_answer_low
@@ -3191,6 +3193,7 @@ drawable notify_panel_notification_icon_bg
 drawable pass_hidden
 drawable pass_shown
 drawable phone_icn
+drawable placeholder_image
 drawable profile
 drawable rounded_button
 drawable rounded_textview
@@ -3202,6 +3205,7 @@ drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable user
 drawable user_icn
+drawable user_new
 drawable user_wa
 drawable video_placeholder
 drawable wasi_img
@@ -3589,6 +3593,12 @@ id navigation_header_container
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
+id newsCategory
+id newsDate
+id newsDesc
+id newsImage
+id newsTitle
+id news_recycler_view
 id noScroll
 id noState
 id none
@@ -3645,6 +3655,7 @@ id progress_login
 id progress_signup
 id radio
 id ratio
+id readMore
 id rectangles
 id report_drawn
 id restart
@@ -3677,16 +3688,6 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
-id section_content1
-id section_content2
-id section_content3
-id section_content4
-id section_content5
-id section_title1
-id section_title2
-id section_title3
-id section_title4
-id section_title5
 id select_dialog_listview
 id selected
 id selection_type
@@ -3731,6 +3732,7 @@ id stop
 id stretch
 id submenuarrow
 id submit_area
+id subtitle
 id supportScrollUp
 id tabMode
 id tag_accessibility_actions
@@ -3757,7 +3759,6 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
-id textView2
 id textView3
 id textView4
 id textView5
@@ -3952,7 +3953,6 @@ layout abc_tooltip
 layout activity_about_us
 layout activity_chat_bot_int
 layout activity_home
-layout activity_info_lung
 layout activity_lung_cancer_prediction
 layout activity_main
 layout activity_main2
@@ -3982,6 +3982,8 @@ layout fragment_first3
 layout fragment_second
 layout fragment_second2
 layout fragment_second3
+layout health_news
+layout item_news_card
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -5553,5 +5555,6 @@ styleable ViewStubCompat android_id android_layout android_inflatedId
 styleable ViewTransition android_id SharedValue SharedValueId clearsTag duration ifTagNotSet ifTagSet motionInterpolator motionTarget onStateTransition pathMotionArc setsTag transitionDisable upDuration viewTransitionMode
 styleable include constraintSet
 xml backup_rules
+xml category_background
 xml data_extraction_rules
 xml image_share_filepaths

@@ -56,9 +56,9 @@ class Home_act : AppCompatActivity() {
             startActivity(intent)
         }
 
-        val info=findViewById<Button>(R.id.info_but)
-        info.setOnClickListener{
-            val info_act= Intent(this,info_lung::class.java)
+        val news=findViewById<Button>(R.id.info_but)
+        news.setOnClickListener{
+            val info_act= Intent(this,HealthNewsActivity::class.java)
             startActivity(info_act)
         }
 
@@ -74,6 +74,10 @@ class Home_act : AppCompatActivity() {
         userWelcome.text = "$name"
 
         val profileImage=findViewById<ImageView>(R.id.prof)
+        profileImage.setImageResource(R.drawable.user_new)
+
+        val logo=findViewById<ImageView>(R.id.logo)
+        logo.setImageResource(R.drawable.hopescan_nbg)
 
         profileImage.setOnClickListener {
             showProfileMenu(it)

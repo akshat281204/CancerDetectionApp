@@ -1,302 +1,334 @@
 [
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/menu_menu_home.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/menu/menu_home.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\layout_fragment_second3.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\fragment_second3.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.cancerdetection.app-main-61:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\menu\\bottom_nav_menu.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_ic_play_circle.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/ic_play_circle.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_hopescan_nbg.png.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\hopescan_nbg.png"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_lock_icn.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/lock_icn.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_user_wa.png.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\user_wa.png"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_gradient_background.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/gradient_background.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\layout_activity_chat_bot_int.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\activity_chat_bot_int.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_pass_shown.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/pass_shown.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\ic_info.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/layout_activity_about_us.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/layout/activity_about_us.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\gradient_background.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_textview_background.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/textview_background.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\activity_main2.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_email_icn.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/email_icn.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\mipmap-hdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/layout_activity_main.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_email_icn.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\email_icn.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/menu_bottom_nav_menu.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/menu/bottom_nav_menu.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/xml_backup_rules.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_arpan_img.jpg.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\arpan_img.jpg"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_arpan_img.jpg.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/arpan_img.jpg"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_ic_contact.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\ic_contact.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.cancerdetection.app-main-61:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_back_btn.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\back_btn.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/layout_fragment_first2.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/layout/fragment_first2.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_image_border.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\image_border.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_ic_info.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/ic_info.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\navigation_nav_graph2.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\navigation\\nav_graph2.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_tips_gradient_background.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/tips_gradient_background.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_date.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\layout_activity_about_us.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_pass_shown.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\pass_shown.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\layout_fragment_first2.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\fragment_first2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_tips_gradient_background.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\tips_gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_logout.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\logout.xml"
+    },
+    {
+        "merged": "com.example.cancerdetection.app-debug-59:/layout_health_news.xml.flat",
+        "source": "com.example.cancerdetection.app-main-61:/layout/health_news.xml"
     },
     {
         "merged": "com.example.cancerdetection.app-debug-59:/layout_activity_home.xml.flat",
         "source": "com.example.cancerdetection.app-main-61:/layout/activity_home.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/layout_activity_chat_bot_int.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/layout/activity_chat_bot_int.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\navigation\\nav_graph.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/layout_content_main.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/layout/content_main.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_user.png.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\user.png"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/navigation_nav_graph3.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/navigation/nav_graph3.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_hopescan_wbg.png.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\hopescan_wbg.png"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.cancerdetection.app-main-61:/mipmap-xhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/layout_fragment_second.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/layout/fragment_second.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_ic_play_circle.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\ic_play_circle.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/layout_fragment_second3.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/layout/fragment_second3.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\navigation_nav_graph3.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\navigation\\nav_graph3.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.cancerdetection.app-main-61:/mipmap-hdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\mipmap-mdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.cancerdetection.app-main-61:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\raw_lung_health_animation.json.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\raw\\lung_health_animation.json"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_rounded_textview.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/rounded_textview.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_akshat_img.jpg.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\akshat_img.jpg"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_wasi_img.jpg.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/wasi_img.jpg"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.cancerdetection.app-main-61:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\rounded_button.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.cancerdetection.app-main-61:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/layout_content_info_lung.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/layout/content_info_lung.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\fragment_second.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_ic_home.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/ic_home.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_phone_icn.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/phone_icn.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\layout_item_news_card.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\item_news_card.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/navigation_nav_graph2.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/navigation/nav_graph2.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_wasi_img.jpg.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\wasi_img.jpg"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_user.png.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/user.png"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_user_new.png.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\user_new.png"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/layout_activity_main2.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/layout/activity_main2.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_rounded_tip.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\rounded_tip.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_back_layt.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/back_layt.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.cancerdetection.app-main-61:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_rounded_tip.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/rounded_tip.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_placeholder_image.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\placeholder_image.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_back_btn.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/back_btn.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\layout_fragment_first3.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\fragment_first3.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_alert_dialog_background.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/alert_dialog_background.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_back_layt.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\back_layt.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_backgroundd.png.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/backgroundd.png"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_phone_icn.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\phone_icn.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_cancer_logo.png.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/cancer_logo.png"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\layout_activity_info_lung.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\activity_info_lung.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/raw_lung_health_animation.json.flat",
-        "source": "com.example.cancerdetection.app-main-61:/raw/lung_health_animation.json"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_video_placeholder.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\video_placeholder.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_card_layt.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/card_layt.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\menu_menu_home.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\menu\\menu_home.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/font_monst_font.ttf.flat",
-        "source": "com.example.cancerdetection.app-main-61:/font/monst_font.ttf"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_alert_dialog_background.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\alert_dialog_background.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/layout_fragment_second2.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/layout/fragment_second2.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_pass_hidden.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/pass_hidden.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\profile.png"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_image_border.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/image_border.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\content_main.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.cancerdetection.app-main-61:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.cancerdetection.app-main-61:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_lock_icn.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\lock_icn.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_ic_contact.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/ic_contact.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_backgroundd.png.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\backgroundd.png"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/layout_fragment_first.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/layout/fragment_first.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\fragment_first.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_user_icn.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/user_icn.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_pass_hidden.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\pass_hidden.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_logout.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/logout.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_user_wa.png.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/user_wa.png"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_cancer_logo.png.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\cancer_logo.png"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/navigation_nav_graph.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/navigation/nav_graph.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_user_icn.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\user_icn.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.cancerdetection.app-main-61:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\layout_activity_lung_cancer_prediction.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\activity_lung_cancer_prediction.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_akshat_img.jpg.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/akshat_img.jpg"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.cancerdetection.app-main-61:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\xml_category_background.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\xml\\category_background.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_video_placeholder.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/video_placeholder.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\layout_fragment_second2.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\fragment_second2.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_profile.png.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/profile.png"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/layout_activity_info_lung.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/layout/activity_info_lung.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\layout_content_info_lung.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\content_info_lung.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.cancerdetection.app-main-61:/mipmap-mdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.cancerdetection.app-main-61:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\ic_home.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/layout_fragment_first3.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/layout/fragment_first3.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\activity_home.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.cancerdetection.app-main-61:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_rounded_textview.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\rounded_textview.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_rounded_button.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/rounded_button.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_textview_background.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\textview_background.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/layout_activity_lung_cancer_prediction.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/layout/activity_lung_cancer_prediction.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\drawable_card_layt.xml.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\drawable\\card_layt.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\font_monst_font.ttf.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\font\\monst_font.ttf"
     },
     {
-        "merged": "com.example.cancerdetection.app-debug-59:/drawable_date.xml.flat",
-        "source": "com.example.cancerdetection.app-main-61:/drawable/date.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-debug-59:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\mipmap-xhdpi\\ic_launcher.webp"
     }
 ]

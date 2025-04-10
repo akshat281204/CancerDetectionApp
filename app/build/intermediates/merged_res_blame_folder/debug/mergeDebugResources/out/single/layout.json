@@ -1,62 +1,74 @@
 [
     {
-        "merged": "com.example.cancerdetection.app-mergeDebugResources-58:/layout/fragment_second.xml",
-        "source": "com.example.cancerdetection.app-main-61:/layout/fragment_second.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-mergeDebugResources-58:\\layout\\activity_lung_cancer_prediction.xml",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\activity_lung_cancer_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-mergeDebugResources-58:\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-mergeDebugResources-58:\\layout\\content_main.xml",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-mergeDebugResources-58:\\layout\\activity_info_lung.xml",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\activity_info_lung.xml"
     },
     {
         "merged": "com.example.cancerdetection.app-mergeDebugResources-58:/layout/activity_home.xml",
         "source": "com.example.cancerdetection.app-main-61:/layout/activity_home.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-mergeDebugResources-58:/layout/fragment_first2.xml",
-        "source": "com.example.cancerdetection.app-main-61:/layout/fragment_first2.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-mergeDebugResources-58:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-mergeDebugResources-58:/layout/activity_chat_bot_int.xml",
-        "source": "com.example.cancerdetection.app-main-61:/layout/activity_chat_bot_int.xml"
+        "merged": "com.example.cancerdetection.app-mergeDebugResources-58:/layout/health_news.xml",
+        "source": "com.example.cancerdetection.app-main-61:/layout/health_news.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-mergeDebugResources-58:/layout/fragment_second2.xml",
-        "source": "com.example.cancerdetection.app-main-61:/layout/fragment_second2.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-mergeDebugResources-58:\\layout\\fragment_second2.xml",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\fragment_second2.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-mergeDebugResources-58:/layout/activity_lung_cancer_prediction.xml",
-        "source": "com.example.cancerdetection.app-main-61:/layout/activity_lung_cancer_prediction.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-mergeDebugResources-58:\\layout\\activity_about_us.xml",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\activity_about_us.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-mergeDebugResources-58:/layout/fragment_first.xml",
-        "source": "com.example.cancerdetection.app-main-61:/layout/fragment_first.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-mergeDebugResources-58:\\layout\\item_news_card.xml",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\item_news_card.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-mergeDebugResources-58:/layout/activity_main2.xml",
-        "source": "com.example.cancerdetection.app-main-61:/layout/activity_main2.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-mergeDebugResources-58:\\layout\\fragment_first2.xml",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\fragment_first2.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-mergeDebugResources-58:/layout/content_info_lung.xml",
-        "source": "com.example.cancerdetection.app-main-61:/layout/content_info_lung.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-mergeDebugResources-58:\\layout\\content_info_lung.xml",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\content_info_lung.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-mergeDebugResources-58:/layout/activity_about_us.xml",
-        "source": "com.example.cancerdetection.app-main-61:/layout/activity_about_us.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-mergeDebugResources-58:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\fragment_first.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-mergeDebugResources-58:/layout/fragment_second3.xml",
-        "source": "com.example.cancerdetection.app-main-61:/layout/fragment_second3.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-mergeDebugResources-58:\\layout\\fragment_first3.xml",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\fragment_first3.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-mergeDebugResources-58:/layout/content_main.xml",
-        "source": "com.example.cancerdetection.app-main-61:/layout/content_main.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-mergeDebugResources-58:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\activity_home.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-mergeDebugResources-58:/layout/fragment_first3.xml",
-        "source": "com.example.cancerdetection.app-main-61:/layout/fragment_first3.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-mergeDebugResources-58:\\layout\\activity_chat_bot_int.xml",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\activity_chat_bot_int.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-mergeDebugResources-58:/layout/activity_main.xml",
-        "source": "com.example.cancerdetection.app-main-61:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-mergeDebugResources-58:\\layout\\fragment_second3.xml",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\fragment_second3.xml"
     },
     {
-        "merged": "com.example.cancerdetection.app-mergeDebugResources-58:/layout/activity_info_lung.xml",
-        "source": "com.example.cancerdetection.app-main-61:/layout/activity_info_lung.xml"
+        "merged": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-mergeDebugResources-58:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\Akshat\\.gradle\\daemon\\8.7\\com.example.cancerdetection.app-main-61:\\layout\\fragment_second.xml"
     }
 ]
